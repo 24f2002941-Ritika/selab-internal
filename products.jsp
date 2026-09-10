@@ -180,7 +180,7 @@
             <h3>Smartphone</h3>
 
             <p class="category">Electronics</p>
-            <p class="category">Quantity infoo</p>
+            <p class="category">Quantity infoo neww</p>
             <p class="price">₹24,999</p>
 
             <button class="buy-btn">
